@@ -11,6 +11,7 @@ Welcome to the Women in Computing (WIC) GitHub! 🌟 We're a community of coders
 ### [I Miss My Cafe](https://github.com/WIC-UCSD-Project-Teams/i-miss-my-cafe) -- Learn how to create a basic website using HTML/CSS and access resources!
 ### [Weather App](https://github.com/WIC-UCSD-Project-Teams/weather-app) -- Learn how to implement JavaScript functions and APIs to make your website more interactive!
 ### [Buzzfeed Page](https://github.com/WIC-UCSD-Project-Teams/buzzfeed-page) -- Learn how to create a fun interactive website using HTML, CSS, and Javascript!
+### [Snake Game]() -- Learn how to recreate the classic snake game!
 
 ## 😍 Workshops
 ### [CSS Workshop](https://github.com/WIC-UCSD-Project-Teams/css-workshop) -- Learn CSS through our interactive CSS Workshop!
